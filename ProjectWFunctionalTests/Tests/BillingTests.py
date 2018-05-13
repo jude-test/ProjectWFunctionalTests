@@ -1,3 +1,6 @@
+import sys
+
+print(sys.version)
 
 print("in BillingTests.py")
 
